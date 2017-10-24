@@ -1,2 +1,10 @@
 body {
-  background-color: blue; }
+  background: #5A4444;
+  color: #fff; }
+
+.navbar {
+  border-bottom: 4px solid #0E91F6;
+  opacity: 0.7; }
+
+#home-sec {
+  background: url("../assets/pc.jpeg"); }

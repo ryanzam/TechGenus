@@ -1,5 +1,17 @@
-$bg-color : blue;
+$bg-color: #5A4444;
+$primary-color: #0E91F6;
+$font-color: #fff;
 
 body {
-  background-color: $bg-color
+  background: $bg-color;
+  color: $font-color;
+}
+
+.navbar {
+  border-bottom: 4px solid $primary-color;
+  opacity: 0.7;
+}
+
+#home-sec {
+  background: url('../assets/pc.jpeg');
 }
