@@ -1,6 +1,7 @@
-$bg-color: #5A4444;
+$bg-color: #212529;
 $primary-color: #0E91F6;
 $font-color: #fff;
+$mask-color: rgba(0,0,0,0.5);
 
 body {
   background: $bg-color;
@@ -14,4 +15,11 @@ body {
 
 #home-sec {
   background: url('../assets/pc.jpeg');
+  min-height: 500px;
+  background-size: cover;
+}
+
+.header-mask{
+  background-color: $mask-color;
+  min-height: 500px;
 }

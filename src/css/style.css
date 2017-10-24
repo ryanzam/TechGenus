@@ -1,5 +1,5 @@
 body {
-  background: #5A4444;
+  background: #212529;
   color: #fff; }
 
 .navbar {
@@ -7,4 +7,10 @@ body {
   opacity: 0.7; }
 
 #home-sec {
-  background: url("../assets/pc.jpeg"); }
+  background: url("../assets/pc.jpeg");
+  min-height: 500px;
+  background-size: cover; }
+
+.header-mask {
+  background-color: rgba(0, 0, 0, 0.5);
+  min-height: 500px; }
