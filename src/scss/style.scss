@@ -23,3 +23,13 @@ body {
   background-color: $mask-color;
   min-height: 500px;
 }
+
+
+#contact-sec {
+  background: url('../assets/contacts.jpeg') no-repeat;
+  background-size: cover;
+}
+
+.contact-sec-inner {
+  background-color: $mask-color;
+}

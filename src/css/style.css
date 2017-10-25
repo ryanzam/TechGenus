@@ -14,3 +14,10 @@ body {
 .header-mask {
   background-color: rgba(0, 0, 0, 0.5);
   min-height: 500px; }
+
+#contact-sec {
+  background: url("../assets/contacts.jpeg") no-repeat;
+  background-size: cover; }
+
+.contact-sec-inner {
+  background-color: rgba(0, 0, 0, 0.5); }
