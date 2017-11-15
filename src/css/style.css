@@ -9,7 +9,8 @@ body {
 #home-sec {
   background: url("../assets/pc.jpeg");
   min-height: 500px;
-  background-size: cover; }
+  background-size: cover;
+ }
 
 .header-mask {
   background-color: rgba(0, 0, 0, 0.5);
