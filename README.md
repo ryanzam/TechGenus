@@ -1,3 +1,3 @@
-# A simple website (used bootstrap v4)
+# A webpage for TechGenus
 
 [DEMO](https://bootstrapv4-webpage.firebaseapp.com)
